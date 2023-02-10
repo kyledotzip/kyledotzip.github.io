@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/val-guide-front/static/css/main.229705d0.css",
+    "main.js": "/val-guide-front/static/js/main.2a42c0dd.js",
+    "static/media/homebanner.jfif": "/val-guide-front/static/media/homebanner.cc04808c3799757d8f0f.jfif",
+    "static/media/valorant.png": "/val-guide-front/static/media/valorant.061d0f50b409e7238578.png",
+    "index.html": "/val-guide-front/index.html",
+    "main.229705d0.css.map": "/val-guide-front/static/css/main.229705d0.css.map",
+    "main.2a42c0dd.js.map": "/val-guide-front/static/js/main.2a42c0dd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.229705d0.css",
+    "static/js/main.2a42c0dd.js"
+  ]
+}
